@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Registration | citycite</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+	<style>
+		h2 {
+			text-align: center;
+			color: blue;
+		}
+
+		#container {
+			border: 2px solid #ffffff;
+			padding: 15px;
+			background-color: wheat;
+			position: fixed;
+			bottom: 25px;
+			right: 70%;
+		}
+
+		#myId {
+
+			text-align: center;
+		}
+
+		#subStyle {
+			background-color: #00ff00;
+			font-size: 20px;
+			color: #ffffff;
+			border: 2px solid #336600;
+			padding: 3px;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<div class="main">
+			<div class="myWebsite">
+				<h1>CityCite<h1>
+			</div>
+			<ul>
+				<ul>
+					<li><a href="home.html">Home</a></li>
+					<li><a href="heritage.html">Heritage</a></li>
+					<li><a href="hotelbooking.html">Hotel Booking</a></li>
+					<li><a href="gallery.html">Gallery</a></li>
+					<li><a href="registration.html">Registration Form</a></li>
+					<ul>
+						<ul>
+		</div>
+
+
+
+		<div id="container">
+			<form action="#" name="myForm" onsubmit="return myValidation()">
+				<div>
+					<h2><b><u>Hotel Registration </u></b></h2>
+				</div>
+				<br>
+				<div>
+					<label> User ID: </label>
+					<input type="text" name="uId" id="uId" autocomplete="off" placeholder="Enter userID"><br>
+					<span id="userId" style="color: #ff0000;"> </span>
+
+				</div>
+				<br>
+				<div>
+					<label> Password: </label>
+					<input type="password" name="pswd" id="pswd" autocomplete="off" placeholder="Enter password"><br>
+					<span id="password" style="color: #ff0000;"> </span>
+
+				</div>
+				<br>
+				<div>
+					<label> Name: </label>
+					<input type="text" name="uName" id="uName" autocomplete="off" placeholder="Enter Name"><br>
+					<span id="userNames" style="color: #ff0000;"> </span>
+				</div>
+				<br>
+				<div>
+					<label> Address: </label>
+					<input type="text" name="address" id="address" autocomplete="off" placeholder="Enter Address">
+					<span id="address1" style="color: #008000;"> </span>
+
+				</div>
+				<br>
+				<div>
+					<label> Country: </label>
+					<select name="country" id="country"><br>
+						<option value="IN">India</option>
+						<option value="USA">United States Of America</option>
+						<option value="UK">United Kingdom</option>
+						<option value="RU">Russia</option>
+						<option value="PK">Pakistan</option>
+						<option value="AU">Australia</option>
+					</select>
+					<span id="countryName" style="color: #ff0000;"> </span>
+				</div>
+				<br>
+				<div>
+					<label> Zip Code: </label>
+					<input type="number" name="zipCode" id="zipCode" autocomplete="off" placeholder="Enter Zipcode"><br>
+					<span id="zipcode" style="color: #ff0000;"> </span>
+
+				</div>
+				<br>
+				<div>
+					<label> Email: </label>
+					<input type="email" name="email" id="email" autocomplete="off" placeholder="Enter Email"><br>
+					<span id="eMail" style="color: #ff0000;"> </span>
+
+				</div>
+				<br>
+				<div>
+					<label> Gender: </label>&nbsp;&nbsp;&nbsp;
+					<input type="radio" name="gender" id="gender">
+					<label for="Male">Male</label>&nbsp;&nbsp;&nbsp;&nbsp;
+					<input type="radio" name="gender" id="gender">
+					<label for="Female">Female</label>
+					<span id="genders" style="color: #ff0000;"> * </span>
+				</div>
+				<br>
+				<div>
+					<label> Language: </label>
+					<input type="checkbox" name="lang" id="lang">
+					<label for="eng"> English </label>
+					<input type="checkbox" name="lang" id="lang">
+					<label for="non_eng"> Non-English </label>
+					<span id="language" style="color: #ff0000;"> * </span>
+				</div>
+				<br>
+				<div>
+					<label> About: </label>
+					<input type="text" name="about" id="about" autocomplete="off" placeholder="Optional">
+					<span id="abouts"></span>
+
+				</div>
+
+				<br>
+				<div id="myId">
+					<input type="submit" name="submit" value="submit" id="subStyle">
+				</div>
+			</form>
+		</div>
+	</header>
+
+	<script type="text/javascript">
+
+
+		function myValidation() {
+
+			var uId = document.getElementById('uId').value;
+			var uName = document.getElementById('uName').value;
+			var country = document.getElementById('country').value;
+			var zipCode = document.getElementById('zipCode').value;
+			var passwords = document.getElementById('pswd').value;
+			var emails = document.getElementById('email').value;
+			var gender = document.myForm.gender;
+			var lang = document.myForm.lang;
+
+
+
+
+			// user validation 
+			if (uId == "") {
+				document.getElementById('userId').innerHTML = " ** Please fill the username field";
+				return false;
+			}
+			if ((uId.length <= 5) || (userId.length > 20)) {
+				document.getElementById('userId').innerHTML = " ** Username lenght must be between 5 and 20";
+				return false;
+			}
+			if (!isNaN(uId)) {
+				document.getElementById('userId').innerHTML = " ** only characters are allowed";
+				return false;
+			}
+
+
+
+
+
+
+			// password validation
+			if (passwords == "") {
+				document.getElementById('password').innerHTML = " ** Please fill the password field";
+				return false;
+			}
+			if ((passwords.length <= 5) || (passwords.length > 20)) {
+				document.getElementById('password').innerHTML = " ** Passwords lenght must be between  5 and 20";
+				return false;
+			}
+
+
+
+			// User Name validation
+			if (uName == "") {
+				document.getElementById('userNames').innerHTML = " ** Please fill the Name field";
+				return false;
+			}
+			if (!isNaN(uName)) {
+				document.getElementById('userNames').innerHTML = " ** only characters are allowed";
+				return false;
+			}
+
+			// country validation
+			if (country == "") {
+				document.getElementById('countryName').innerHTML = " Required. Must select a Country";
+				return false;
+			}
+
+			// zip validation
+			if (zipCode == "") {
+				document.getElementById('zipcode').innerHTML = " Required. Must be numeric only.";
+				return false;
+			}
+
+
+			// email validation
+			if (emails == "") {
+				document.getElementById('eMail').innerHTML = " ** Please fill the email id field";
+				return false;
+			}
+			if (emails.indexOf('@') <= 0) {
+				document.getElementById('eMail').innerHTML = " ** @ Invalid Position";
+				return false;
+			}
+			if ((emails.charAt(emails.length - 4) != '.') && (emails.charAt(emails.length - 3) != '.')) {
+				document.getElementById('eMail').innerHTML = " ** . Invalid Position";
+				return false;
+			}
+
+			// sex validation
+			for (var i = 0; i < gender.length; i++) {
+				if (gender[i].checked == true) {
+					break;
+				}
+				document.getElementById('genders').innerHTML = " **Required ";
+				return false;
+			}
+
+			// language validation
+			for (var i = 0; i < lang.length; i++) {
+				if (lang[i].checked == true) {
+					break;
+				}
+				document.getElementById('language').innerHTML = "**Required";
+				return false;
+			}
+		}
+
+	</script>
+</body>
+
+</html>

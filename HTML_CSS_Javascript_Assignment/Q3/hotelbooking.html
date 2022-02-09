@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Hotelbooking | citycite</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<style>
+		h2 {
+			text-align: center;
+			color: blue;
+		}
+
+		#container {
+			border: 2px solid #ffffff;
+			padding: 15px;
+			background-color: wheat;
+			position: fixed;
+			bottom: 25px;
+			right: 70%;
+		}
+
+		#myId {
+
+			text-align: center;
+		}
+
+		#subStyle {
+			background-color: #00ff00;
+			font-size: 20px;
+			color: #ffffff;
+			border: 2px solid #336600;
+			padding: 3px;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<div class="main">
+			<div class="myWebsite">
+				<h1 id="fStyle">CityCite<h1>
+			</div>
+			<ul>
+				<ul>
+					<li><a href="home.html">Home</a></li>
+					<li><a href="heritage.html">Heritage</a></li>
+					<li><a href="hotelbooking.html">Hotel Booking</a></li>
+					<li><a href="gallery.html">Gallery</a></li>
+					<li><a href="registration.html">Registration Form</a></li>
+					<ul>
+						<ul>
+		</div>
+
+		<div id="container">
+			<form>
+				<div>
+					<h2><b><u>Hotel Booking</u></b></h2>
+				</div>
+				<br>
+				<div>
+					<label>Full Name: </label>
+					<input type="text" name="fname" id="fname" autocomplete="off" placeholder=" Enter Name"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Address: </label>
+					<input type="text" name="add" id="add" autocomplete="off" placeholder="Enter Address"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>City: </label>
+					<input type="text" name="city" id="city" autocomplete="off" placeholder="Enter City"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>State: </label>
+					<input type="text" name="state" id="state" autocomplete="off" placeholder=" Enter State"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Phone No.: </label>
+					<input type="number" name="num" id="num" autocomplete="off" placeholder="Enter Phone No"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Email: </label>
+					<input type="email" name="mail" id="mail" autocomplete="off" placeholder="Enter Email"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Check-In: </label>
+					<input type="datetime-local" name="cin" id="cin" autocomplete="off" placeholder="CheckIn"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Check Out: </label>
+					<input type="datetime-local" name="cout" id="cout" required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Adult: </label>
+					<input type="number" name="adult" id="adult" autocomplete="off" placeholder="No. of Adults"
+						required="required"><br>
+				</div>
+				<br>
+				<div>
+					<label>Children: </label>
+					<input type="number" name="children" id="children" autocomplete="off" placeholder="No. of Childrens"
+						required="required"><br>
+				</div>
+
+				<br>
+				<div id="myId">
+					<input type="submit" name="submit" value="Submit" id="subStyle">
+				</div>
+			</form>
+		</div>
+
+	</header>
+
+</body>
+
+</html>
