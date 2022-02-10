@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\ref\Example4_TypeMembers.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\bin\Debug\net5.0\Example4_TypeMembers.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\ref\Example4_TypeMembers.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example4_TypeMembers\obj\Debug\net5.0\Example4_TypeMembers.genruntimeconfig.cache

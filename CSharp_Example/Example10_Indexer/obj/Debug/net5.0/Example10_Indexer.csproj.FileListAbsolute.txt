@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\ref\Example10_Indexer.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\bin\Debug\net5.0\Example10_Indexer.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\ref\Example10_Indexer.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example10_Indexer\obj\Debug\net5.0\Example10_Indexer.genruntimeconfig.cache

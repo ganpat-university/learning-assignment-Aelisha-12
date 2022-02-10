@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\ref\Example5_Array.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\bin\Debug\net5.0\Example5_Array.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\ref\Example5_Array.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example5_Array\obj\Debug\net5.0\Example5_Array.genruntimeconfig.cache

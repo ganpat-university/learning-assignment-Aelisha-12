@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\ref\Demo_Hello.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\bin\Debug\net5.0\Demo_Hello.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\ref\Demo_Hello.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_Hello\obj\Debug\net5.0\Demo_Hello.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8db01c75-54d2-4638-a339-0152a13cbda6": {
+      "ProjectGuid": "8db01c75-54d2-4638-a339-0152a13cbda6",
+      "DisplayName": "CSharp_Example",
+      "ColorIndex": 0
+    },
+    "a2f17089-e096-41cf-b87e-64be6bb588a4": {
+      "ProjectGuid": "a2f17089-e096-41cf-b87e-64be6bb588a4",
+      "DisplayName": "Demo_Hello",
+      "ColorIndex": 1
+    },
+    "ed75468a-9a1b-427d-be55-f012f84740e1": {
+      "ProjectGuid": "ed75468a-9a1b-427d-be55-f012f84740e1",
+      "DisplayName": "Demo_DataType",
+      "ColorIndex": 2
+    },
+    "c5a1fb86-ac24-4f05-85aa-e0aa834125e2": {
+      "ProjectGuid": "c5a1fb86-ac24-4f05-85aa-e0aa834125e2",
+      "DisplayName": "Example3_MethodParameter",
+      "ColorIndex": 3
+    },
+    "4705962a-aa6c-4b72-811e-89f6d01edb38": {
+      "ProjectGuid": "4705962a-aa6c-4b72-811e-89f6d01edb38",
+      "DisplayName": "Example4_TypeMembers",
+      "ColorIndex": 4
+    },
+    "75a4df90-433e-45e4-84fb-6f724eb37930": {
+      "ProjectGuid": "75a4df90-433e-45e4-84fb-6f724eb37930",
+      "DisplayName": "Example5_Array",
+      "ColorIndex": 5
+    },
+    "9f24a4f0-a0bb-4952-a2be-947f3ebbeef9": {
+      "ProjectGuid": "9f24a4f0-a0bb-4952-a2be-947f3ebbeef9",
+      "DisplayName": "Example6_MethodOverloading",
+      "ColorIndex": 6
+    },
+    "11fb5896-3f02-45a3-8aae-fc9d19b995d8": {
+      "ProjectGuid": "11fb5896-3f02-45a3-8aae-fc9d19b995d8",
+      "DisplayName": "Example7_MethodOverriding",
+      "ColorIndex": 7
+    },
+    "3d9732cf-2e49-40dc-9911-9226693a7e91": {
+      "ProjectGuid": "3d9732cf-2e49-40dc-9911-9226693a7e91",
+      "DisplayName": "Example8_Constructors",
+      "ColorIndex": 8
+    },
+    "cd4c552a-6d2c-46ee-9eb4-fbc5567b4f25": {
+      "ProjectGuid": "cd4c552a-6d2c-46ee-9eb4-fbc5567b4f25",
+      "DisplayName": "Example8_Constructors",
+      "ColorIndex": 9
+    },
+    "b82b1ef5-3963-4f1b-9b87-4fb4fbc4303d": {
+      "ProjectGuid": "b82b1ef5-3963-4f1b-9b87-4fb4fbc4303d",
+      "DisplayName": "Example9_StatePattern",
+      "ColorIndex": 10
+    },
+    "6836b83d-4927-46d4-bcf4-2e0177036d62": {
+      "ProjectGuid": "6836b83d-4927-46d4-bcf4-2e0177036d62",
+      "DisplayName": "Example10_Indexer",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

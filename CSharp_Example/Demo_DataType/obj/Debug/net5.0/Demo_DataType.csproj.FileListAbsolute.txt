@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\ref\Demo_DataType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\bin\Debug\net5.0\Demo_DataType.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\ref\Demo_DataType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Demo_DataType\obj\Debug\net5.0\Demo_DataType.genruntimeconfig.cache

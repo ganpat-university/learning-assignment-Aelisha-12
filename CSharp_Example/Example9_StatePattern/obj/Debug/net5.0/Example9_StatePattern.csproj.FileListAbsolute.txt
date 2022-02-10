@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\ref\Example9_StatePattern.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\bin\Debug\net5.0\Example9_StatePattern.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\ref\Example9_StatePattern.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example9_StatePattern\obj\Debug\net5.0\Example9_StatePattern.genruntimeconfig.cache

@@ -1,0 +1,70 @@
+﻿using System;
+
+namespace Example3_MethodParameter
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+
+            
+            Console.WriteLine("Example Pass By Value");
+            i = 10;
+            Console.WriteLine("i = {0}", i);
+            DemoOfPassByValue(i);
+            Console.WriteLine("i now = {0}", i);
+            Console.WriteLine();
+
+            
+            Console.WriteLine("Example OF Pass By Reference");
+            i = 10;
+            Console.WriteLine("i = {0}", i);
+            DemoOfPassByReference(ref i);
+            Console.WriteLine("i now = {0}", i);
+            Console.WriteLine();
+
+
+          
+            Console.WriteLine("Example OF Pass By Out (Output)");
+            i = 10;
+            Console.WriteLine("i = {0}", i);
+            DemoOfPassByOut(out i);
+            Console.WriteLine("i now = {0}", i);
+            Console.WriteLine();
+
+            DemoOfVariableNumberOfParameters();
+            DemoOfVariableNumberOfParameters(10, 20);
+            DemoOfVariableNumberOfParameters(30);
+            DemoOfVariableNumberOfParameters(10, 20, 30, 40, 50);
+        }
+
+        static void DemoOfPassByValue(int a)
+        {
+            Console.WriteLine("-- Received a = {0}", a);
+            a = 50;
+            Console.WriteLine("-- after change, a = {0}", a);
+        }
+
+        static void DemoOfPassByReference(ref int a)
+        {
+            Console.WriteLine("-- Received a = {0}", a);
+            a = 50;
+            Console.WriteLine("-- after change, a = {0}", a);
+        }
+
+        static void DemoOfPassByOut(out int a)
+        {
+             //Console.WriteLine("-- Received a = {0}", a);         //not compile
+            a = 50;
+            Console.WriteLine("-- after change, a = {0}", a);
+        }
+
+        // PASS BY VALUE ONLY!
+        static void DemoOfVariableNumberOfParameters(params int[] arr)
+        {
+
+        }
+
+    }
+}
