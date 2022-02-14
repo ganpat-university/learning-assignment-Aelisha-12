@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\ref\Example15_IComparable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\bin\Debug\net5.0\Example15_IComparable.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\ref\Example15_IComparable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example15_IComparable\obj\Debug\net5.0\Example15_IComparable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\ref\Example19_ExtensionMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\bin\Debug\net5.0\Example19_ExtensionMethod.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\ref\Example19_ExtensionMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example19_ExtensionMethod\obj\Debug\net5.0\Example19_ExtensionMethod.genruntimeconfig.cache

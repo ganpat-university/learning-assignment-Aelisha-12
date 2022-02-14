@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\ref\Example20_AnonymousType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\bin\Debug\net5.0\Example20_AnonymousType.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\ref\Example20_AnonymousType.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example20_AnonymousType\obj\Debug\net5.0\Example20_AnonymousType.genruntimeconfig.cache

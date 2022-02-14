@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\ref\Example18_Generics.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\bin\Debug\net5.0\Example18_Generics.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\ref\Example18_Generics.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example18_Generics\obj\Debug\net5.0\Example18_Generics.genruntimeconfig.cache

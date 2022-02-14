@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\ref\Example22_LINQ.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\bin\Debug\net5.0\Example22_LINQ.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\ref\Example22_LINQ.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example22_LINQ\obj\Debug\net5.0\Example22_LINQ.genruntimeconfig.cache

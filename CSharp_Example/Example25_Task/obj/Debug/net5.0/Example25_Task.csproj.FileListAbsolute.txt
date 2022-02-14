@@ -1,0 +1,16 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\ref\Example25_Task.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\bin\Debug\net5.0\Example25_Task.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.csproj.AssemblyReference.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\ref\Example25_Task.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example25_Task\obj\Debug\net5.0\Example25_Task.genruntimeconfig.cache

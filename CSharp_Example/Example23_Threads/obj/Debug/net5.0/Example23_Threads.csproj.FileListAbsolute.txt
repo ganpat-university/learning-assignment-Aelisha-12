@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\ref\Example23_Threads.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\bin\Debug\net5.0\Example23_Threads.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\ref\Example23_Threads.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example23_Threads\obj\Debug\net5.0\Example23_Threads.genruntimeconfig.cache

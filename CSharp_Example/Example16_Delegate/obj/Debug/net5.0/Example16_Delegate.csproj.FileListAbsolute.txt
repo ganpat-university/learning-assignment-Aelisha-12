@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\ref\Example16_Delegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\bin\Debug\net5.0\Example16_Delegate.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\ref\Example16_Delegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example16_Delegate\obj\Debug\net5.0\Example16_Delegate.genruntimeconfig.cache

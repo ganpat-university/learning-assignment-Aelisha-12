@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\ref\Example17_MultiCastDelegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\bin\Debug\net5.0\Example17_MultiCastDelegate.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\ref\Example17_MultiCastDelegate.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example17_MultiCastDelegate\obj\Debug\net5.0\Example17_MultiCastDelegate.genruntimeconfig.cache

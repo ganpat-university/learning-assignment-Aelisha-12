@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\ref\Example14_IEnumerable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\bin\Debug\net5.0\Example14_IEnumerable.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\ref\Example14_IEnumerable.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example14_IEnumerable\obj\Debug\net5.0\Example14_IEnumerable.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\ref\Example21_AnonymousMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\bin\Debug\net5.0\Example21_AnonymousMethod.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\ref\Example21_AnonymousMethod.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example21_AnonymousMethod\obj\Debug\net5.0\Example21_AnonymousMethod.genruntimeconfig.cache

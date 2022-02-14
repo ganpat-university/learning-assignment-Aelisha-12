@@ -1,0 +1,15 @@
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.exe
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.deps.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.runtimeconfig.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.runtimeconfig.dev.json
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\ref\Example13_IEnumerator.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\bin\Debug\net5.0\Example13_IEnumerator.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.AssemblyInfoInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.AssemblyInfo.cs
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\ref\Example13_IEnumerator.dll
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.pdb
+C:\Users\aelisha patel\source\repos\CSharp_Example\Example13_IEnumerator\obj\Debug\net5.0\Example13_IEnumerator.genruntimeconfig.cache
